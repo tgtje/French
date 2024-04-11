@@ -91,3 +91,4 @@ default :
 }
 
 $ns -> tablerender($caption, $text);
+Demo Version, Only convert first 5 files at one time, Please buy now!
