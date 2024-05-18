@@ -421,7 +421,7 @@ define("LAN_PAGINATION", "Pagination");
 define("LAN_X_CHARS_REMAINING", "[x] caractères. restant");
 define("LAN_UI_BATCH_NOW", "Date/heure actuelle");
 define("LAN_RELATIONSHIP", "Association");
-define("LAN_RELATIONSHIP_HELP", "Attribut "rel" facultatif. Séparé par des virgules.");
+define("LAN_RELATIONSHIP_HELP", "Attribut 'rel' facultatif. Séparé par des virgules.");
 define("LAN_NO_SCRIPT_ACCESS", "Vous n'êtes pas autorisé à utiliser les balises [script].");
 define("LAN_NO_SCRIPT_ACCESS_ASK", "Si vous pensez qu'il s'agit d'une erreur, demandez à l'administrateur principal de vous accorder l'accès au script via [b]Préférences > Filtres de contenu[/b]");
 define("LAN_UI_FILTER_TODAY", "Aujourd'hui");
