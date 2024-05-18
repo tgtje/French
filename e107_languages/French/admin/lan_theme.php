@@ -9,7 +9,7 @@
 |        $Author: Olivier Troccaz $
 +---------------------------------------------------------------+
 */
-define("TPVLAN_1", "Vous pr&eacute;visualisez le th&egrave;me <b>&apos;".PREVIEWTHEMENAME."&apos;</b>. Il n&apos;a pas &eacute;t&eacute; d&eacute;fini comme th&egrave;me principal de votre site, il a &eacute;t&eacute; activ&eacute; afin de fournir un aper&ccedil;u de son apparence.<br>Pour d&eacute;finir ce th&egrave;me comme th&egrave;me de votre site, <a href=&apos;".e_ADMIN."theme.php?choose&apos;>retournez dans le gestionnaire de th&egrave;mes</a> et s&eacute;lectionnez &apos;D&eacute;finir comme th&egrave;me du site&apos;.<br>Pour pr&eacute;visualiser d&apos;autres th&egrave;mes, veuillez <a href=&apos;".e_ADMIN."theme.php&apos;>cliquer ici</a>");
+define("TPVLAN_1", "Vous pr&eacute;visualisez le th&egrave;me <b>&apos;'.PREVIEWTHEMENAME.'&apos;</b>. Il n&apos;a pas &eacute;t&eacute; d&eacute;fini comme th&egrave;me principal de votre site, il a &eacute;t&eacute; activ&eacute; afin de fournir un aper&ccedil;u de son apparence.<br>Pour d&eacute;finir ce th&egrave;me comme th&egrave;me de votre site, <a href=&apos;".e_ADMIN."theme.php?choose&apos;>retournez dans le gestionnaire de th&egrave;mes</a> et s&eacute;lectionnez &apos;D&eacute;finir comme th&egrave;me du site&apos;.<br>Pour pr&eacute;visualiser d&apos;autres th&egrave;mes, veuillez <a href=&apos;".e_ADMIN."theme.php&apos;>cliquer ici</a>");
 define("TPVLAN_2", "Aper&ccedil;u du th&egrave;me");
 define("TPVLAN_3", "Le th&egrave;me du site a chang&eacute;.");
 define("TPVLAN_5", "Site Web");
