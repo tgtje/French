@@ -9,6 +9,7 @@
 |        $Author: Olivier Troccaz $
 +---------------------------------------------------------------+
 */
+if (!defined("PAGE_NAME")) { define("PAGE_NAME", "Planification des tâches"); }
 define("LAN_CRON_M_02", "Actualisation");
 define("LAN_CRON_2", "Fonction");
 define("LAN_CRON_3", "Onglet");
